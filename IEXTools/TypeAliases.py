@@ -6,6 +6,7 @@ AllMessages = Union[
     messages.TradeBreak,
     messages.AuctionInformation,
     messages.TradeReport,
+    messages.RetailLiquidityIndicator,
     messages.OfficialPrice,
     messages.SystemEvent,
     messages.SecurityDirective,

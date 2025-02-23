@@ -95,6 +95,7 @@ class Parser(object):
             messages.TradeBreak: b"\x42",
             messages.AuctionInformation: b"\x41",
             messages.TradeReport: b"\x54",
+            messages.RetailLiquidityIndicator: b"\x49",
             messages.OfficialPrice: b"\x58",
             messages.SystemEvent: b"\x53",
             messages.SecurityDirective: b"\x44",
